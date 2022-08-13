@@ -1,0 +1,33 @@
+button{
+   margin:20px 20px;
+   border: none;
+   outline: none;
+   padding: 10px 40px;
+   border-radius: 6px;
+   -webkit-border-radius: 6px;
+   -moz-border-radius: 6px;
+   -ms-border-radius: 6px;
+   -o-border-radius: 6px;
+   transition: all .5s;
+   -webkit-transition: all .5s;
+   -moz-transition: all .5s;
+   -ms-transition: all .5s;
+   -o-transition: all .5s;
+}
+button:hover{
+    background-color: black;
+    color: white;
+}
+div{
+    margin: 10px 0;
+}
+#content{
+    margin: 100px 20px;
+    display: block;
+    width: 70%;
+}
+
+#js{
+    margin: 10px 0;
+}
+
